@@ -1,0 +1,7 @@
+com\example\Student\Entity\StudentEntity.class
+com\example\Student\Repositary\Studentrepositary.class
+com\example\Student\StudentApplication.class
+com\example\Student\Model\StudentDTO.class
+com\example\Student\Service\StudentService.class
+com\example\Student\Controller\StudentController.class
+com\example\Student\Service\Studentimp.class
